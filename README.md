@@ -1,2 +1,2 @@
-# RaspberrPi-thermometer
+# RaspberryPi-thermometer
 ラズベリーパイとPHPを使用した温湿度集計サイト
